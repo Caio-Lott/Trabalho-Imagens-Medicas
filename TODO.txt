@@ -1,0 +1,35 @@
+TODO: TPF de Imagens Médicas
+
+estrutura do BreakHist_Dataset:
+
+	tumor_class (maligno/benigno)
+		biopsy_procedure (SOB)
+			tumor_type (cada classe tem 4 diferentes)
+				slide_id (número e caracteres qualqueres)
+					magnification (40x, 100x, 200x, 400x)
+
+pegar as imagens:
+
+	vasculhar imagens png no diretório do dataset
+	para cada uma:
+		pegar a imagem
+		pegar seus labels (benigno/maligno)
+
+processar as imagens:
+
+	selecionar features
+	recursive feature elimination
+	segmentation
+
+treinar modelos:
+
+	SVM:
+	KNN:
+	Random Forest:
+	Logistic Regression:
+	Naive Bayes:
+
+comparar desempenho:
+
+	accouracy
+	precision
