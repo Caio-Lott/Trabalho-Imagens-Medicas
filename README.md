@@ -32,7 +32,7 @@ git clone https://github.com/Caio-Lott/Trabalho-Imagens-Medicas.git
 ### Navigate to the project directory
 
 ```bash
-cd your-repository-name
+cd Trabalho-Imagens-Medicas
 ```
 ### Installing dependences
 To install all libraries used in the project, you can run the following command in your therminal or run the first cell in the notebook:
