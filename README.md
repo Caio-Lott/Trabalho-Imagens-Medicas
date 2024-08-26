@@ -18,10 +18,6 @@ As técnicas utilizadas foram:
 
 <br> Dataset link: https://drive.google.com/file/d/18j40t_ZVDT2DV7eVqENTlNNWMnrL5nDq/view?usp=drive_link
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-
 ## Installation
 
 ### Prerequisites
